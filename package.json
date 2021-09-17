@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gameover.js",
+  "scripts": {
+  "start": "gameover.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
